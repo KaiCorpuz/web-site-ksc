@@ -1,0 +1,16 @@
+{
+    "This is a json test":"True",
+    "Author": "Kai Corpuz",
+    "Age":"19",
+    "Major":"Computer Science",
+    "School":"Lewis University",
+    "Status":"In Quarantine",
+
+    "Quarantine-Hobbies":[{
+        "Hobby":"Eating"
+    },{ "Hobby":"Music"
+    },{ "hobby":"Video Games"
+    }],
+
+    "FinalNote": "I need Coffee"    
+}
