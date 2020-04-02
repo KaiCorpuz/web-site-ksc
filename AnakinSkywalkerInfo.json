@@ -1,0 +1,25 @@
+{
+    "Name": "Anakin Skywalker",
+    "Alias":"Darth Vader",
+    "Appearances":[{
+        },{    "Appearance":"Original Trilogy"
+        },{    "Appearance":"Prequel Trilogy"
+        },{    "Appearance":"The Clone Wars(Movie)"
+        },{    "Appearance":"Thw Clone Wars(TV Series)"
+    }],
+    "Song":"Imperial March",
+    "Affiliations":[{
+        },{ "Group":"Jedi Order"
+        },{ "Group":"The Empire"
+        },{ "Group":"The Old Republic"
+        },{ "Group":"Force Ghost"
+    }],
+
+    "Relations":[{
+        },{"LukeSkywalker":"Son"
+        },{"LeiaOrgana":"Daughter"
+        },{"PadmeAmidala":"Wife"
+    }],
+
+    "CurrentStatus":"Dead"
+}
