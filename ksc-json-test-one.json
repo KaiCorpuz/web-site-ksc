@@ -5,6 +5,7 @@
     "School":"Lewis University",
     "Status":"In Quarantine",
     "Car": "2005 SAAB 9-3",
+    "seatLocation":"62",
 
     "Quarantine-Hobbies":[{
         "Hobby":"Eating"
