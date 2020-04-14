@@ -1,5 +1,6 @@
 {
-    "Author": "Kai Corpuz",
+    "firstName": "Kai",
+    "lastName":"Corpuz",
     "Age":"19",
     "Major":"Computer Science",
     "School":"Lewis University",
